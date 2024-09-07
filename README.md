@@ -1,7 +1,7 @@
 # Credit-Risk-Modelling
 Evolving Credit Risk Models: Leveraging Bio-inspired Algorithms and Explainable AI for Loan Approval
 
-Basel II norms necessitate the banks to maintain a Capital Adequacy Ratio(CAR)of 8% of risk-weighted assets[21]. This means banks have to allocate £8 in their reserve
+  Basel II norms necessitate the banks to maintain a Capital Adequacy Ratio(CAR)of 8% of risk-weighted assets. This means banks have to allocate £8 in their reserve
 for every £100 they risk to being default. The higher the risk the larger the money allocation for hedging the risk, which means less money is left for investments leading to lesser
 profit to the banks. Credit Risk Modelling is a machine learning technique to quantify the risk of the borrower using their personal and credit information. This not only helps
 banks in risk mitigation but also helps consumers in getting loans at cheaper rates. The dataset employed in this study was acquired from Lending Club, a prominent P2P lending
